@@ -13,9 +13,9 @@ A simple to-do app for adding,deleting and searching tasks
 
 ## 🧩 About
 
-> This to-do app has the tech stack of HTML,JavaScript and Materialize CSS
-> by this to do app you can know the basics of JavaScript fuctions and variables
-> and how to store and retrive your app's data from localsrorage in browser.
+ - This to-do app has the tech stack of HTML,JavaScript and Materialize CSS
+ - By this to do app you can know the basics of JavaScript fuctions and variables
+ - And how to store and retrive your app's data from localsrorage in browser.
 
 ---
 ## ✨ Features
